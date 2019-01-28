@@ -1,0 +1,40 @@
+.jumbotron {
+    background-color: #49274a: !mportant;
+}
+
+body {
+    font-size: 40px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #333;
+    background-color: #94618e;
+    line-height: 1;
+    color: white;
+}
+
+.questions {
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #333;
+    background-color: #94618e;
+    line-height: 1;
+    color: white;
+}
+
+.answers {
+    margin-bottom: 20px;
+}
+
+.buttons {
+    font-family: sans-serif;
+    font-size: 40px;
+    background-color: darkblue;
+    color: #fff;
+    border: 0px;
+    border-radius: 3px;
+    padding: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
